@@ -17,17 +17,20 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Prerequisites For Using AWS CDK
 
+
 1- Prior knowledge of AWS Services
 
-2- AWS CLI Installed
+2- Docker Installed
 
-3- AWS Credentials and Configs
+3- AWS CLI Installed
 
-4- Exploring/Considering Using Typescript + AWS CDK In Your Project
+4- AWS Credentials and Configs
 
-5- Solid Knowledge In Typescript
+5- Exploring/Considering Using Typescript + AWS CDK In Your Project
 
-6- Good To Have Use AWS Serverless Knowledge Before Migrating To CDK
+6- Solid Knowledge In Typescript
+
+7- Good To Have Use AWS Serverless Knowledge Before Migrating To CDK
 
 Important URLS To Checkout/Skim read :
 
